@@ -246,7 +246,7 @@
         </div>
       </div>
 
-      <!-- Resume Button -->
+  
        
 
 
@@ -283,10 +283,10 @@
 <footer class="footer">
   <div class="container footerContainer">
 
-    <!-- Left: Copyright -->
+    
     <p class="footerText">© 2025 Lile Bezhuashvili</p>
 
-    <!-- Right: Social Icons -->
+    
     <div class="footerSocials">
       <a href="#" aria-label="LinkedIn" class="socialLink">
         <img src="images/icon-linkedin.svg" alt="LinkedIn">
